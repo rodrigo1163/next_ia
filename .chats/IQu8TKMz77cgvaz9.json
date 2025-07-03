@@ -1,0 +1,58 @@
+[
+  {
+    "id": "msgc-cPPOkPNvcYUZuor0",
+    "createdAt": "2025-07-03T11:37:39.727Z",
+    "role": "user",
+    "content": "diga uma assunto para a gente falar hoje",
+    "parts": [
+      {
+        "type": "text",
+        "text": "diga uma assunto para a gente falar hoje"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-92gYHWrWd7a8iYsn0nhFAnK4",
+    "createdAt": "2025-07-03T11:37:43.193Z",
+    "content": "Que tal falarmos sobre sustentabilidade e como pequenas ações do dia a dia podem fazer a diferença no meio ambiente? É um tema muito atual e importante! O que você acha?",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "text",
+        "text": "Que tal falarmos sobre sustentabilidade e como pequenas ações do dia a dia podem fazer a diferença no meio ambiente? É um tema muito atual e importante! O que você acha?"
+      }
+    ]
+  },
+  {
+    "id": "msgc-EiIhFNhrT3XZ6LGf",
+    "createdAt": "2025-07-03T11:37:57.331Z",
+    "role": "user",
+    "content": "então vamos falar sobre isso",
+    "parts": [
+      {
+        "type": "text",
+        "text": "então vamos falar sobre isso"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-LOv5sHQGuSCZE82Y3YEVPkIP",
+    "createdAt": "2025-07-03T11:38:02.685Z",
+    "content": "Ótimo! A sustentabilidade é um assunto amplo e fascinante. Podemos abordar várias áreas, como:\n\n1. **Redução de resíduos**: Como podemos diminuir o uso de plásticos e promover a reciclagem?\n2. **Consumo consciente**: A importância de escolher produtos sustentáveis e de empresas que adotam práticas éticas.\n3. **Energia renovável**: O papel das energias solar, eólica e outras fontes limpas na redução da pegada de carbono.\n4. **Alimentação sustentável**: Como a escolha de alimentos locais e orgânicos pode impactar o meio ambiente.\n5. **Transporte sustentável**: A importância de usar transporte público, bicicletas ou caminhar em vez de usar carros.\n\nQual desses tópicos mais te interessa, ou há outro aspecto da sustentabilidade que você gostaria de explorar?",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "text",
+        "text": "Ótimo! A sustentabilidade é um assunto amplo e fascinante. Podemos abordar várias áreas, como:\n\n1. **Redução de resíduos**: Como podemos diminuir o uso de plásticos e promover a reciclagem?\n2. **Consumo consciente**: A importância de escolher produtos sustentáveis e de empresas que adotam práticas éticas.\n3. **Energia renovável**: O papel das energias solar, eólica e outras fontes limpas na redução da pegada de carbono.\n4. **Alimentação sustentável**: Como a escolha de alimentos locais e orgânicos pode impactar o meio ambiente.\n5. **Transporte sustentável**: A importância de usar transporte público, bicicletas ou caminhar em vez de usar carros.\n\nQual desses tópicos mais te interessa, ou há outro aspecto da sustentabilidade que você gostaria de explorar?"
+      }
+    ]
+  }
+]

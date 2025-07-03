@@ -1,0 +1,114 @@
+[
+  {
+    "id": "msgc-uQDFbSJzH5zVExLZ",
+    "createdAt": "2025-07-03T11:25:15.150Z",
+    "role": "user",
+    "content": "eu sou lindo",
+    "parts": [
+      {
+        "type": "text",
+        "text": "eu sou lindo"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-gawEfO78sXpJWNI7hL8URvbb",
+    "createdAt": "2025-07-03T11:25:19.814Z",
+    "content": "Que bom que você se sente assim! A autoestima é muito importante. O que mais você gostaria de compartilhar sobre você?",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "text",
+        "text": "Que bom que você se sente assim! A autoestima é muito importante. O que mais você gostaria de compartilhar sobre você?"
+      }
+    ]
+  },
+  {
+    "id": "msgc-TJM7ICXGoniFxIaX",
+    "createdAt": "2025-07-03T11:31:19.414Z",
+    "role": "user",
+    "content": "eu gosto de feijão",
+    "parts": [
+      {
+        "type": "text",
+        "text": "eu gosto de feijão"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-890Y6Mjo0oLVg49BLoXmfPQp",
+    "createdAt": "2025-07-03T11:31:24.856Z",
+    "content": "Feijão é um alimento muito nutritivo e versátil! Você tem alguma receita favorita que usa feijão?",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "text",
+        "text": "Feijão é um alimento muito nutritivo e versátil! Você tem alguma receita favorita que usa feijão?"
+      }
+    ]
+  },
+  {
+    "id": "msgc-ETAcFzmqC2ycJo0O",
+    "createdAt": "2025-07-03T11:31:52.602Z",
+    "role": "user",
+    "content": "não tenho, mas voce poderia me falar outras receitas com esse alimento?",
+    "parts": [
+      {
+        "type": "text",
+        "text": "não tenho, mas voce poderia me falar outras receitas com esse alimento?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-A5nhyjzC0EDjkdfgFiLH4N2b",
+    "createdAt": "2025-07-03T11:32:01.766Z",
+    "content": "Claro! O feijão é um ingrediente muito versátil e pode ser usado em diversas receitas. Aqui estão algumas sugestões:\n\n1. **Feijão Tropeiro**: Uma receita típica do Brasil, feita com feijão carioca, bacon, linguiça, ovos e temperos. É um prato saboroso e muito nutritivo.\n\n2. **Feijão com Arroz**: Um clássico! O feijão é cozido e servido com arroz, muitas vezes acompanhado de uma saladinha e um bife ou frango.\n\n3. **Chili**: Um prato mexicano que combina feijão (geralmente feijão preto ou vermelho), carne moída, tomates, pimentões e temperos. É bem apimentado e delicioso!\n\n4. **Salada de Feijão**: Uma opção leve e refrescante. Misture feijão cozido (pode ser feijão preto, branco ou carioca) com cebola, tomate, pimentão, coentro e um molho de azeite, limão e sal.\n\n5. **Sopa de Feijão**: Uma sopa reconfortante que pode ser feita com feijão, legumes e temperos. É uma ótima maneira de aquecer nos dias frios.\n\n6. **Feijão Verde Refogado**: Refogue feijão verde com alho, cebola e temperos a gosto. É um acompanhamento delicioso!\n\n7. **Burguer de Feijão**: Uma opção vegetariana, onde o feijão é misturado com aveia, temperos e moldado em formato de hambúrguer. Depois, é grelhado ou assado.\n\nEssas são apenas algumas ideias! O feijão pode ser adaptado a muitos pratos diferentes. Você gostaria de mais detalhes sobre alguma dessas receitas?",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "text",
+        "text": "Claro! O feijão é um ingrediente muito versátil e pode ser usado em diversas receitas. Aqui estão algumas sugestões:\n\n1. **Feijão Tropeiro**: Uma receita típica do Brasil, feita com feijão carioca, bacon, linguiça, ovos e temperos. É um prato saboroso e muito nutritivo.\n\n2. **Feijão com Arroz**: Um clássico! O feijão é cozido e servido com arroz, muitas vezes acompanhado de uma saladinha e um bife ou frango.\n\n3. **Chili**: Um prato mexicano que combina feijão (geralmente feijão preto ou vermelho), carne moída, tomates, pimentões e temperos. É bem apimentado e delicioso!\n\n4. **Salada de Feijão**: Uma opção leve e refrescante. Misture feijão cozido (pode ser feijão preto, branco ou carioca) com cebola, tomate, pimentão, coentro e um molho de azeite, limão e sal.\n\n5. **Sopa de Feijão**: Uma sopa reconfortante que pode ser feita com feijão, legumes e temperos. É uma ótima maneira de aquecer nos dias frios.\n\n6. **Feijão Verde Refogado**: Refogue feijão verde com alho, cebola e temperos a gosto. É um acompanhamento delicioso!\n\n7. **Burguer de Feijão**: Uma opção vegetariana, onde o feijão é misturado com aveia, temperos e moldado em formato de hambúrguer. Depois, é grelhado ou assado.\n\nEssas são apenas algumas ideias! O feijão pode ser adaptado a muitos pratos diferentes. Você gostaria de mais detalhes sobre alguma dessas receitas?"
+      }
+    ]
+  },
+  {
+    "id": "msgc-Ve15Dgax4zbb4Ll9",
+    "createdAt": "2025-07-03T11:32:11.816Z",
+    "role": "user",
+    "content": "qual voce recomenda comer mais?",
+    "parts": [
+      {
+        "type": "text",
+        "text": "qual voce recomenda comer mais?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "id": "msg-mvcNFJxFZLuIOZIchFGNt09d",
+    "createdAt": "2025-07-03T11:32:19.008Z",
+    "content": "A escolha de qual receita de feijão comer mais pode depender do seu gosto pessoal e das suas necessidades nutricionais. No entanto, aqui estão algumas recomendações:\n\n1. **Feijão com Arroz**: Essa combinação é uma excelente fonte de proteínas completas, pois o arroz complementa os aminoácidos do feijão. É uma refeição equilibrada e muito comum na dieta brasileira.\n\n2. **Salada de Feijão**: Se você está buscando algo mais leve e refrescante, a salada de feijão é uma ótima opção. Ela é rica em fibras, vitaminas e minerais, além de ser fácil de preparar e perfeita para dias quentes.\n\n3. **Sopa de Feijão**: Uma sopa é uma boa escolha para dias frios e pode ser muito nutritiva, especialmente se você adicionar legumes variados. É uma maneira saborosa de aumentar a ingestão de vegetais.\n\n4. **Feijão Tropeiro**: Se você gosta de pratos mais substanciais e saborosos, o feijão tropeiro é uma ótima opção, embora seja mais calórico devido aos ingredientes como bacon e linguiça. É ideal para ocasiões especiais.\n\n5. **Burguer de Feijão**: Se você está buscando uma opção vegetariana ou vegana, o burguer de feijão é uma excelente escolha. Ele é rico em proteínas e pode ser uma alternativa saudável aos hambúrgueres tradicionais.\n\nEm geral, incluir uma variedade de preparações de feijão na sua dieta pode ser benéfico, pois cada uma traz diferentes nutrientes e sabores. O importante é escolher o que mais agrada ao seu paladar e se encaixa no seu estilo de vida!",
+    "toolInvocations": [],
+    "parts": [
+      {
+        "type": "step-start"
+      },
+      {
+        "type": "text",
+        "text": "A escolha de qual receita de feijão comer mais pode depender do seu gosto pessoal e das suas necessidades nutricionais. No entanto, aqui estão algumas recomendações:\n\n1. **Feijão com Arroz**: Essa combinação é uma excelente fonte de proteínas completas, pois o arroz complementa os aminoácidos do feijão. É uma refeição equilibrada e muito comum na dieta brasileira.\n\n2. **Salada de Feijão**: Se você está buscando algo mais leve e refrescante, a salada de feijão é uma ótima opção. Ela é rica em fibras, vitaminas e minerais, além de ser fácil de preparar e perfeita para dias quentes.\n\n3. **Sopa de Feijão**: Uma sopa é uma boa escolha para dias frios e pode ser muito nutritiva, especialmente se você adicionar legumes variados. É uma maneira saborosa de aumentar a ingestão de vegetais.\n\n4. **Feijão Tropeiro**: Se você gosta de pratos mais substanciais e saborosos, o feijão tropeiro é uma ótima opção, embora seja mais calórico devido aos ingredientes como bacon e linguiça. É ideal para ocasiões especiais.\n\n5. **Burguer de Feijão**: Se você está buscando uma opção vegetariana ou vegana, o burguer de feijão é uma excelente escolha. Ele é rico em proteínas e pode ser uma alternativa saudável aos hambúrgueres tradicionais.\n\nEm geral, incluir uma variedade de preparações de feijão na sua dieta pode ser benéfico, pois cada uma traz diferentes nutrientes e sabores. O importante é escolher o que mais agrada ao seu paladar e se encaixa no seu estilo de vida!"
+      }
+    ]
+  }
+]

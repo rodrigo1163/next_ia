@@ -9,21 +9,12 @@ import { z } from "zod";
 export const maxDuration = 30;
 
 export async function POST(req: Request) {
-  const { messages, message } = await req.json();
-
-  const previousMessages = appendClientMessage({
-    messages,
-    message,
-  });
-
-  const MAX_CONTEXT_MESSAGES = 10;
-  const limitedMessages = previousMessages.slice(-MAX_CONTEXT_MESSAGES);
+  const { messages } = await req.json();
 
   const result = streamText({
     model: openai("gpt-4o"),
-    messages: limitedMessages,
-    system: `Você é um assistente que responde apenas com base nas informações disponíveis na sua base de conhecimento interna..`,
-
+    messages,
+    system: `Você é um assistente que responde apenas com base nas informações disponíveis na sua base de conhecimento interna.`,
     tools: {
       getInformation: tool({
         description: `Busca informações na base de conhecimento para responder perguntas dos usuários.`,
